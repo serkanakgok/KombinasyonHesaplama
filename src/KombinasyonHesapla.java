@@ -25,7 +25,6 @@ public class KombinasyonHesapla {
             System.out.println(n+ " faktöriyel :"+fac1);
             System.out.println(r+" faktöriyel :"+fac2);
             System.out.println(n+"-"+r+" faktöriyel :"+p);
-            System.out.println();
         }else {
             System.out.println("Kombinasyon sayısı eleman sayısından büyük olamaz.");
         }
