@@ -22,10 +22,10 @@ public class KombinasyonHesapla {
             }
             System.out.println(n + "'in " + r + "'li kombinasyonu :" + fac1 / (fac2 * p));
             System.out.println();
-            System.out.println(n+ " faktöriyel :"+fac1);
-            System.out.println(r+" faktöriyel :"+fac2);
-            System.out.println(n+"-"+r+" faktöriyel :"+p);
-        }else {
+            System.out.println(n + " faktöriyel :" + fac1);
+            System.out.println(r + " faktöriyel :" + fac2);
+            System.out.println(n + "-" + r + " faktöriyel :" + p);
+        } else {
             System.out.println("Kombinasyon sayısı eleman sayısından büyük olamaz.");
         }
     }
